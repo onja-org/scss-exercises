@@ -1,6 +1,6 @@
 # SCSS exercises
 
-A series of sequential exercises, introducing SCSS and Bootstrap.
+A series of sequential exercises, introducing node-sass, SCSS-flavoured syntax of Sass, and Bootstrap.
 
 ## Install
 
