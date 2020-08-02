@@ -1,0 +1,14 @@
+$colour_background: #eee;
+$colour_text: #333;
+$font_base_size: 16px !default;
+
+html {
+  font-size: $font_base_size;
+}
+
+body {
+  font-size: 100%;
+  margin: 0;
+  color: $colour_text;
+  background-color: $colour_background;
+}
