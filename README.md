@@ -1,5 +1,7 @@
 # SCSS exercises
 
+A series of sequential exercises, introducing SCSS and Bootstrap.
+
 ## Install
 
 1. Fork this repo.
@@ -9,14 +11,14 @@
 
 You'll need:
 
-- Node.js + NPM
-- Git
-- VS Code
+- Node.js (v8+)
 
 ## Getting started
 
 Continue on to [Exercise 1, installing `node-sass`](./exercises/01-installing-node-sass.md).
 
+
 ## Exercise list
 
-- [01: installing `node-sass`](./exercises/01-installing-node-sass.md).
+- [01: Installing `node-sass`](./exercises/01-installing-node-sass.md).
+- [02: Cleaning up](./exercises/02-cleaning-up.md).

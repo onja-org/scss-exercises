@@ -13,8 +13,8 @@ Alrighty, once that's done, let's start splitting up our SCSS files.
 
 1. Create a _variables.scss in the `scss` folder. This new `_variables.scss` file is going to act as a variables manifest, pointing to all the other variable files we'll need.
 1. Move the variables from `manifest.scss` into their own new files: 
-  - `scss/variables/_colours.scss`
-  - `scss/variables/_fonts.scss`
+   - `scss/variables/_colours.scss`
+   - `scss/variables/_fonts.scss`
 1. Create two `@imports` in `_variables.scss` that import these new variables files.
 1. Finally, import the new variables manifest in `manifest.scss`.
 
