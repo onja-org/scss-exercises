@@ -16,3 +16,7 @@ You'll need:
 ## Getting started
 
 Continue on to [Exercise 1, installing `node-sass`](./exercises/01-installing-node-sass.md).
+
+## Exercise list
+
+- [01: installing `node-sass`](./exercises/01-installing-node-sass.md).

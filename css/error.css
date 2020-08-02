@@ -1,0 +1,15 @@
+.no-sass {
+  background-color: #000;
+  color: #ddd;
+  font-family: monospace;
+  margin: 5rem auto;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  max-width: 50ch;
+}
+
+.no-sass code {
+  font-weight: bold;
+  color: #fff;
+}
