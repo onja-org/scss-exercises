@@ -22,3 +22,4 @@ Continue on to [Exercise 1, installing `node-sass`](./exercises/01-installing-no
 
 - [01: Installing `node-sass`](./exercises/01-installing-node-sass.md).
 - [02: Cleaning up](./exercises/02-cleaning-up.md).
+- [03: Importing Bootstrap](./exercises/03-importing-bootstrap.md).
