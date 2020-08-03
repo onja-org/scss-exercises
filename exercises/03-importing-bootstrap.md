@@ -25,13 +25,15 @@ Since we're just working with Bootstrap's Sass, let's carry on.
 
 Import the `bootstrap` manifest file into our `manifest.scss` file, after our variables import.
 
-The target file is waiting in the following location:
+This target file is waiting in the following location:
 
 `node_modules/bootstrap/scss/bootstrap.scss`
 
+Run the `scss` script again. Does everything work as expect?
+
 ## 3. Using Bootstrap's components
 
-Let's clear out the `<body>` node in `index.html`, and replace it with this:
+Let's clear out the contents of the `<body>` node in `index.html`, and replace it with this:
 
 ```
 <header class="container">

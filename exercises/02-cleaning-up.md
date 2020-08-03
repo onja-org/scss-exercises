@@ -13,8 +13,8 @@ Alrighty, once that's done, let's start splitting up our SCSS files.
 1. Move the variables from `manifest.scss` into their own new files: 
    - `scss/variables/_colours.scss`
    - `scss/variables/_fonts.scss`
-1. Create two `@imports` in `variables/_index.scss` that import these new variables files.
-1. Finally, import the new variables manifest file into `manifest.scss`.
+1. Create two `@import`s in `variables/_index.scss` that import these new variables files.
+1. Finally, import the new variables manifest file (`_index.scss`) into `manifest.scss`.
 
 Let's check that everything worked. If you run the `node-sass` compile script called `scss` you created in exercise 1, it should still compile fine, right?
 
@@ -28,6 +28,6 @@ scss/
     - _index.scss
   - manifest.scss
 ```
-
+1. Delete all the other content in the `manifest.scss` file. This file should only have the one `@import` in it.
 1. Lastly, commit and push your changes.
 
