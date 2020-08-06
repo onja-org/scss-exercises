@@ -2,7 +2,7 @@
 
 OK, now it's time to try something really challenging.
 
-Let's use Bootstrap to implement a design we've worked on before.
+Let's use Bootstrap to implement [a design we've worked on before](https://www.figma.com/file/SC3HqLUP9hGBfn93mIwxkS/Sports-App-homepage-Responsive-Revised).
 
 Remember the Sports App? Let's implement the header and masthead from that design, but by using Bootstrap.
 
