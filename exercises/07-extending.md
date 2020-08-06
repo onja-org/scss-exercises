@@ -4,9 +4,11 @@ Let's extend Bootstrap by adding our own series of custom panels, but let's try 
 
 There's a really good article on the Bootstrap website about [how to create your own components](https://getbootstrap.com/docs/4.5/extend/approach/).
 
+Here's the design: [Custom Panels on Figma](https://www.figma.com/file/LKfQ0LoQpGvif5CMEZwhle/Custom-Panels?node-id=0%3A1)
+
 Our panels should:
 
-- behave similar to the Jumbotron
+- behave similar to the Jumbotron, as a simple container.
 - have the default amount of padding
 - support all the Bootstrap background colours
 - must adopt an inverse font-color if the background is too dark
