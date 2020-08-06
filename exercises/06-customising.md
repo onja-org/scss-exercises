@@ -28,5 +28,3 @@ Here are some things I want you to customise:
 After you've done all that, your page should look like this:
 
 ![](./06-customising-desktop.png)
-
-Your `_bootstrap-custom.scss` file should only have the contents you changed. Delete everything else in this file that you haven't used.
